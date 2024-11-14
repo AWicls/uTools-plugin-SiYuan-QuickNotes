@@ -1,0 +1,20 @@
+{
+    "name": "随手记-SiYuan",
+    "version": "0.0.1",
+    "pluginName": "uTools-plugin-SiYuan-QuickNotes",
+    "main": "index.html",
+    "logo": "public\\static\\logo-siyuan.png",
+    "preload": "preload.js",
+    "features": [
+        {
+            "code": "hello",
+            "explain": "hello world",
+            "cmds": [
+                "随手记",
+                "笔记",
+                "Note",
+                "QuickNotes"
+            ]
+        }
+    ]
+}
